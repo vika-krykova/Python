@@ -1,0 +1,37 @@
+[
+  {
+    "description": "4",
+    "category": "3",
+    "is_completed": false
+  },
+  {
+    "description": "Изучить Python",
+    "category": "учеба",
+    "is_completed": false
+  },
+  {
+    "description": "Купить продукты",
+    "category": "покупки",
+    "is_completed": false
+  },
+  {
+    "description": "Сделать задачу",
+    "category": "учеба",
+    "is_completed": false
+  },
+  {
+    "description": "Купить продукты",
+    "category": "покупки",
+    "is_completed": false
+  },
+  {
+    "description": "Посмотреть мемы",
+    "category": "отдых",
+    "is_completed": false
+  },
+  {
+    "description": "Поесть",
+    "category": "отдых",
+    "is_completed": false
+  }
+]
